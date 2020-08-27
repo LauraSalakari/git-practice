@@ -1,3 +1,4 @@
 Name: Laura
 Age: 27
 Favourite Colour: Purple
+Favourite Animal: Panda
